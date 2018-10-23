@@ -19,3 +19,6 @@ Service Mesh using Istio
 https://github.com/yokawasa/azure-container-labs/blob/master/labs/aks-202-istio-top.md
 ```
 
+```
+https://github.com/Azure-Samples
+```
