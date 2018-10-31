@@ -17,6 +17,12 @@ Create AKS Cluster
 https://github.com/yokawasa/azure-container-labs/blob/master/labs/aks-101-create-aks-cluster.md
 Service Mesh using Istio
 https://github.com/yokawasa/azure-container-labs/blob/master/labs/aks-202-istio-top.md
+
+How to deploy Python models on a Kubernetes cluster 
+https://github.com/Azure/MLAKSDeployment
+
+Tutorial on how to deploy Deep Learning models on GPU enabled Kubernetes cluster
+https://github.com/Microsoft/AKSDeploymentTutorial
 ```
 
 ```
