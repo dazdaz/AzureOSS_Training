@@ -48,3 +48,7 @@ https://www.udemy.com/learn-devops-the-complete-kubernetes-course/
 ## Free Books
 Azure for Architects, published by Packt
 https://azure.microsoft.com/en-us/resources/azure-for-architects/
+
+
+Designing Distributed Systems
+https://azure.microsoft.com/en-us/resources/designing-distributed-systems/
