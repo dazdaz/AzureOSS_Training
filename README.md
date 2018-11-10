@@ -40,6 +40,10 @@ https://www.youtube.com/channel/UCC5NsnXM2lE6kKfJKdQgsRQ Lachlan Evenson
 https://www.youtube.com/channel/UCjQU5ZI2mHswy7OOsii_URg/videos TGI Kubernetes by Heptio
 ```
 
+## Kubernetes Training
+https://acloud.guru/learn/kubernetes-deep-dive
+https://www.udemy.com/learn-devops-the-complete-kubernetes-course/
+
 ## Free Books
 Azure for Architects, published by Packt
 https://azure.microsoft.com/en-us/resources/azure-for-architects/
