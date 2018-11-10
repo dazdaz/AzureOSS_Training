@@ -42,6 +42,7 @@ https://www.youtube.com/channel/UCjQU5ZI2mHswy7OOsii_URg/videos TGI Kubernetes b
 
 ## Kubernetes Training
 https://acloud.guru/learn/kubernetes-deep-dive
+
 https://www.udemy.com/learn-devops-the-complete-kubernetes-course/
 
 ## Free Books
