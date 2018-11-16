@@ -45,10 +45,13 @@ https://acloud.guru/learn/kubernetes-deep-dive
 
 https://www.udemy.com/learn-devops-the-complete-kubernetes-course/
 
-## Free Books
+
+## Other Free Books / Training
+Pivotal has a free e-book on modernizing .NET application
+https://content.pivotal.io/ebooks/modernizing-net-applications
+
 Azure for Architects, published by Packt
 https://azure.microsoft.com/en-us/resources/azure-for-architects/
-
 
 Designing Distributed Systems
 https://azure.microsoft.com/en-us/resources/designing-distributed-systems/
