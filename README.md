@@ -35,6 +35,7 @@ https://katacoda.com/courses/kubernetes Katacoda Labs
 
 ```
 https://github.com/ramitsurana/awesome-kubernetes
+https://github.com/heoelri/container-bootcamp forked from Azure/hackfest-kubernetes
 Videos and YouTube Channels:
 https://www.youtube.com/channel/UCC5NsnXM2lE6kKfJKdQgsRQ Lachlan Evenson
 https://www.youtube.com/channel/UCjQU5ZI2mHswy7OOsii_URg/videos TGI Kubernetes by Heptio
