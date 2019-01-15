@@ -31,6 +31,7 @@ https://github.com/Azure-Samples
 https://azurecitadel.github.io/ Azure Citadel
 https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html Kubernetes BootCamp
 https://katacoda.com/courses/kubernetes Katacoda Labs
+https://github.com/dotnet-presentations/dotnetcore-workshop
 ```
 
 ```
