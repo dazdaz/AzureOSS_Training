@@ -4,6 +4,7 @@
 https://github.com/i0natan/nodebestpractices 
 https://www.codementor.io/mattgoldspink/nodejs-best-practices-du1086jja 
 https://geekflare.com/nodejs-security-scanner/
+https://github.com/dotnet-architecture/eShopOnContainers
 
 Serverless Ninjas Workshop
 https://github.com/codingwithsasquatch/serverless_ninjas_workshop
