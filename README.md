@@ -43,6 +43,10 @@ https://www.youtube.com/channel/UCC5NsnXM2lE6kKfJKdQgsRQ Lachlan Evenson
 https://www.youtube.com/channel/UCjQU5ZI2mHswy7OOsii_URg/videos TGI Kubernetes by Heptio
 ```
 
+```
+https://dotnet-presentations.github.io/
+```
+
 ## Kubernetes Training
 https://acloud.guru/learn/kubernetes-deep-dive
 
