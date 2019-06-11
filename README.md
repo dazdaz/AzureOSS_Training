@@ -5,10 +5,9 @@ https://github.com/i0natan/nodebestpractices
 https://www.codementor.io/mattgoldspink/nodejs-best-practices-du1086jja 
 https://geekflare.com/nodejs-security-scanner/
 https://github.com/dotnet-architecture/eShopOnContainers
-
+https://github.com/scotty-c
 Serverless Ninjas Workshop
 https://github.com/codingwithsasquatch/serverless_ninjas_workshop
-
 https://github.com/yokawasa/azure-container-labs
 
 Hands-on Items
